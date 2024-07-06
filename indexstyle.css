@@ -1,0 +1,59 @@
+h1 {
+  font-size: 80px;
+  color: aqua;
+  text-shadow: 2px 2px;
+}
+h2 {
+  font-size: 49px;
+  font-style: oblique;
+  color: aquamarine;
+}
+ol {
+  font-size: 25px;
+  color: greenyellow;
+  font-style: italic;
+}
+body {
+  background: linear-gradient(90deg, black, grey, red);
+}
+
+ul {
+  font-size: 30px;
+  color: white;
+}
+
+img {
+  margin-left: 35px;
+  border-radius: 25px;
+}
+#main {
+  display: flex;
+  margin-left: 5px;
+  margin: 5px 5px 5px 5px;
+}
+#main2 {
+  display: flex;
+  margin-left: 5px;
+  margin: 5px 5px 5px 5px;
+}
+#main3 {
+  display: flex;
+  margin-left: 5px;
+  margin: 5px 5px 5px 5px;
+}
+#main4 {
+  display: flex;
+  margin-left: 5px;
+  margin: 5px 5px 5px 5px;
+}
+#main5 {
+  display: flex;
+  margin-left: 5px;
+  margin: 5px 5px 5px 5px;
+}
+h6 {
+  font-size: 19px;
+  margin-left: 15%;
+  display: flex;
+  margin-top: -3px;
+}
